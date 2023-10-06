@@ -1,0 +1,1 @@
+8.	Revertir cambios: Haz cambios en tu repositorio local y realiza un commit. Luego, utiliza el comando git revert <ID_del_commit> para revertir los cambios realizados en ese commit en particular.
